@@ -1,4 +1,4 @@
-# eks-workshop-sample-api-service-go
+# test-eks-workshop-sample-api-service-go
 
 A sample Kubernetes service used in the [EKS Workshop](https://eksworkshop.com/) CI/CD Pipeline module.
 
